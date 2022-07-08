@@ -10,33 +10,41 @@ Althought Des Moines is not a large and dinamic city as New York City, its data 
   - Who uses bikeshare the most, men or women? 
   - How old are most frequently users?
   - Who use more the bikes, suscriibers or tourists?
-
-
- <img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 16" src="https://user-images.githubusercontent.com/102195803/177890548-eca82fbb-11b3-4c29-a861-5a203512f7b3.png">
-  
+ 
 To answer this questions, I analized the data with Tableau, taking advantage of its ploting options, combining the results and presented it  as a Tableau Story. 
 
-<img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 29" src="https://user-images.githubusercontent.com/102195803/177890501-257a9b5d-20c1-477d-9840-05fc2ab68e30.png">
+#NYC Citi Bikes Start Locations
+<img width="660" alt="Start locations" src="https://user-images.githubusercontent.com/102195803/177906473-72c92b51-a832-477e-8fd4-6748ed606d39.png">
 
-<img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 25" src="https://user-images.githubusercontent.com/102195803/177890523-00444c42-5a10-45de-be1d-4534aa125dc9.png">
+## Checkout times for users.
+In this plot we can see that mostly users take less than 30 minutes, so we can think they bikes for short trips, maybe to work, to school or only fot shor trips instead using motor driven transportation.
 
-Show the length of time that bikes are checked out for all riders and genders
-Show the number of bike trips for all riders and genders for each hour of each day of the week
-Show the number of bike trips for each type of user and gender for each day of the week.
-Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+<img width="660" alt="Checkout times for users" src="https://user-images.githubusercontent.com/102195803/177906471-483ae3be-0850-4d46-8e3e-23af7ed95629.png">
 
-<img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 22" src="https://user-images.githubusercontent.com/102195803/177890528-268f5968-9177-49f5-a347-01fa6f1562f7.png">
-<img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 19" src="https://user-images.githubusercontent.com/102195803/177890539-14ecd031-f6d4-48e0-a5c2-3d7ba0b09590.png">
+## Checkout times by gender 
+In adition to the previous plot, in this we can see men uses the service more than women.
 
+<img width="660" alt="Checkout times by gender" src="https://user-images.githubusercontent.com/102195803/177906466-b1a19379-4839-46ed-9b00-b5d70cbad7e6.png">
 
-tions:
+## Trips by Weekday 
 
+<img width="660" alt="Trips by Weekday " src="https://user-images.githubusercontent.com/102195803/177906479-4549b259-ecbc-4f90-ace8-751c1ca375d5.png">
+
+## Trips by gender
+
+<img width="660" alt="Trips by gender" src="https://user-images.githubusercontent.com/102195803/177906475-660d36c8-59b1-42ae-8811-124305ae75b1.png">
+
+## User Trips by Gender 
+
+<img width="660" alt="User trips by gender" src="https://user-images.githubusercontent.com/102195803/177906481-7ee10b4c-b120-4ca3-b243-02f7d89ea06e.png">
+
+## Kind of users
+<img width="1440" alt="Kind of users" src="https://user-images.githubusercontent.com/102195803/177906472-7e4bcf78-9438-42e0-b251-23e86726ad32.png">
+
+## Aditional 
+<img width="660" alt="Users per age" src="https://user-images.githubusercontent.com/102195803/177906484-6fb79a03-86ff-45f1-a336-9439a29cdf6e.png">
 
 # Results
-While the demographics of Des Moines may be different from the make up of the citizenry of NYC, a cursory look at the makeup of CitiBike riders may shine light on who bikeshare might appeal to, regardless of locale.
+Taking the experience of NYC with bikesharing service, may be very productive to give us a light about how atractive could be this service in Des Moines, Iowa. Althought there are very different cities in population, demographics, even weather, the fact is tha biking had became very popular among people of all ages. Its a healthy, non contaminant, cheap and fun way of transportation,so it´s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines.
 
-In the above image we can see that more than 3/4 of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
 
-n conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
-
-If I were to pursue additional lines of inquiry for analysis and visualization, given the data provided, I would explore:
