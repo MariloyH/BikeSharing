@@ -40,28 +40,12 @@ This heatmap show us mostly users are Subscribers, i.e, users that prefers to  p
 
 <img width="1440" alt="User trips 4" src="https://user-images.githubusercontent.com/102195803/178065497-b0e57fec-b403-4303-9440-4bad0045aec0.png">
 
-
-
-
-
-
-
-<img width="660" alt="Start locations" src="https://user-images.githubusercontent.com/102195803/177906473-72c92b51-a832-477e-8fd4-6748ed606d39.png">
-
-<img width="660" alt="Kind of users" src="https://user-images.githubusercontent.com/102195803/177906472-7e4bcf78-9438-42e0-b251-23e86726ad32.png">
-<img width="660" alt="Checkout times for users" src="https://user-images.githubusercontent.com/102195803/177906471-483ae3be-0850-4d46-8e3e-23af7ed95629.png">
-<img width="660" alt="Checkout times by gender" src="https://user-images.githubusercontent.com/102195803/177906466-b1a19379-4839-46ed-9b00-b5d70cbade6.png">
-<img width="660" alt="Trips by Weekday" src="https://user-images.githubusercontent.com/102195803/178050320-732f3c6d-9f5d-47e6-94e2-2eb42ec39c0b.png">
-<img width="660" alt="Trips by gender" src="https://user-images.githubusercontent.com/102195803/178050349-fc19a972-0610-4c0b-82c4-aa2a5f048892.png">
-<img width="660" alt="User trips by gender" src="https://user-images.githubusercontent.com/102195803/177906481-7ee10b4c-b120-4ca3-b243-02f7d89ea06e.png">
-
 # Summary 
 Taking the experience of NYC with bikesharing service, may be very productive to give us a light about how atractive could be this service in Des Moines, Iowa. Althought there are very different cities in population, demographics, even weather, the fact is tha biking had became very popular among people of all ages. Its a healthy, non contaminant, cheap and fun way of transportation,so it´s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines.
 
 Aditional to this information, I would propose two aditional plots to help explore the target maket in Des moins
   1. Users by Age.
- ## Aditional 
    <img width="660" alt="Users per age" src="https://user-images.githubusercontent.com/102195803/177906484-6fb79a03-86ff-45f1-a336-9439a29cdf6e.png">
-  2.  
+  
 
 
