@@ -1,7 +1,8 @@
 # BikeSharing
 BootCamp Week14. CityBike with Tableau
 # Overview
-Bike riding is growing as the preferred transportation method for people of all ages. It´s fun, healthy, cheap and lets people see their neighborhood in a new way. Bike-sharing programs, like Citi Bike in NYC  lets people to use it  single way to go  tto school or work or even in a tourist ride, park it an use another one to another destiny. That is why bike-sharing program could be an atractive and very profitable bussines. Here, we will present the NYC Citi Bike data in order to  convince investors that a bike-sharing program in Des Moines is a solid business proposal through a bike trip analysis.
+Bike riding is growing as the preferred transportation method for people of all ages. It´s fun, healthy, cheap and lets people see their neighborhood in a new way. Bike-sharing services, like Citi Bike in NYC, lets people to use a bike in a single way to go  to school or work or even in a tourist ride, deliver it in a station, and use another when required. That´s why bike-sharing program could be an atractive and very profitable bussines. Here, we will present the NYC Citi Bike Data Analysis from August 2019 in order to  convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+
 Althought Des Moines is not a large and dinamic city as New York City, its data can help us answer a few questions:  
 
   - Who uses bikeshare program?
@@ -9,7 +10,7 @@ Althought Des Moines is not a large and dinamic city as New York City, its data 
   - What days are bikeshare used the most? and the least?
   - Who uses bikeshare the most, men or women? 
   - How old are most frequently users?
-  - Who use more the bikes, suscriibers or tourists?
+  - Who use more the bikes, suscribers or tourists?
  
 To answer this questions, I analized the data with Tableau, taking advantage of its ploting options, combining the results and presented it  as a Tableau Story. 
 
@@ -46,5 +47,9 @@ In adition to the previous plot, in this we can see men uses the service more th
 
 # Results
 Taking the experience of NYC with bikesharing service, may be very productive to give us a light about how atractive could be this service in Des Moines, Iowa. Althought there are very different cities in population, demographics, even weather, the fact is tha biking had became very popular among people of all ages. Its a healthy, non contaminant, cheap and fun way of transportation,so it´s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines.
+I order to take a bvetter decisition, I would propose two aditional plots.
+  1. users per age, para istiguir nuestro potencial mercado de clientes 
+  2. bicletas por usuarios, para calcular cuantas bicicletas necesitariamos  al principio.
+  3. 
 
 
