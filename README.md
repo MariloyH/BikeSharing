@@ -14,7 +14,14 @@ Althought Des Moines is not a large and dinamic city as New York City, its data 
  
 To answer this questions, I analized the data with Tableau, taking advantage of its ploting options, combining the results and presented it  as a Tableau Story. 
 
-#NYC Citi Bikes Start Locations
+# Results
+
+The Tableau Story can be consulted here: 
+
+
+
+## NYC Citi Bikes Start Locations
+This map show us the station points distribution in NYC, where we can see that the most popular stations are near points of interest, office buildings, school, etc.
 <img width="660" alt="Start locations" src="https://user-images.githubusercontent.com/102195803/177906473-72c92b51-a832-477e-8fd4-6748ed606d39.png">
 
 ## Checkout times for users.
@@ -44,7 +51,7 @@ This pie plot show us the proportion of Subscribers versus Customers. A opportun
 <img width="660" alt="Kind of users" src="https://user-images.githubusercontent.com/102195803/177906472-7e4bcf78-9438-42e0-b251-23e86726ad32.png">
 
 
-# Results
+# Summary 
 Taking the experience of NYC with bikesharing service, may be very productive to give us a light about how atractive could be this service in Des Moines, Iowa. Althought there are very different cities in population, demographics, even weather, the fact is tha biking had became very popular among people of all ages. Its a healthy, non contaminant, cheap and fun way of transportation,so it´s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines.
 
 Aditional to this information, I would propose two aditional plots to help explore the target maket in Des moins
