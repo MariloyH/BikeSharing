@@ -23,33 +23,34 @@ In this plot we can see that mostly users take less than 30 minutes, so we can t
 <img width="660" alt="Checkout times for users" src="https://user-images.githubusercontent.com/102195803/177906471-483ae3be-0850-4d46-8e3e-23af7ed95629.png">
 
 ## Checkout times by gender 
-In adition to the previous plot, in this we can see men uses the service more than women.
+Similar to the previous plot, in this we can see men uses the service more than women.
 
 <img width="660" alt="Checkout times by gender" src="https://user-images.githubusercontent.com/102195803/177906466-b1a19379-4839-46ed-9b00-b5d70cbad7e6.png">
 
 ## Trips by Weekday 
-
+In this heatmap, we can observe that service is mostly used on weekdays, around office hours and all day on weekends. An exception is Wednesday, although we do not have more information that help us to determine why. 
 <img width="660" alt="Trips by Weekday" src="https://user-images.githubusercontent.com/102195803/178050320-732f3c6d-9f5d-47e6-94e2-2eb42ec39c0b.png">
 
 ## Trips by gender
-
+Aditional to the previous plot here we can observe that men uses the services more than women. 
 <img width="660" alt="Trips by gender" src="https://user-images.githubusercontent.com/102195803/178050349-fc19a972-0610-4c0b-82c4-aa2a5f048892.png">
 
-## User Trips by Gender 
-
+## User Trips by Type and Gender 
+This heatmap show us mostly users are Subscribers, i.e, users that prefers to  pay a perdiodical fee. This is a very interesting point, because suscription  is regular income to the bussiness. Customers could be ocasional userr o tourist. 
 <img width="660" alt="User trips by gender" src="https://user-images.githubusercontent.com/102195803/177906481-7ee10b4c-b120-4ca3-b243-02f7d89ea06e.png">
 
 ## Type of users
+This pie plot show us the proportion of Subscribers versus Customers. A opportunity to engage future subscribers!
 <img width="660" alt="Kind of users" src="https://user-images.githubusercontent.com/102195803/177906472-7e4bcf78-9438-42e0-b251-23e86726ad32.png">
 
-## Aditional 
-<img width="660" alt="Users per age" src="https://user-images.githubusercontent.com/102195803/177906484-6fb79a03-86ff-45f1-a336-9439a29cdf6e.png">
 
 # Results
 Taking the experience of NYC with bikesharing service, may be very productive to give us a light about how atractive could be this service in Des Moines, Iowa. Althought there are very different cities in population, demographics, even weather, the fact is tha biking had became very popular among people of all ages. Its a healthy, non contaminant, cheap and fun way of transportation,so it´s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines.
 
 Aditional to this information, I would propose two aditional plots to help explore the target maket in Des moins
   1. Users by Age.
-  2. 
+ ## Aditional 
+   <img width="660" alt="Users per age" src="https://user-images.githubusercontent.com/102195803/177906484-6fb79a03-86ff-45f1-a336-9439a29cdf6e.png">
+  2.  
 
 
