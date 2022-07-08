@@ -29,18 +29,18 @@ In adition to the previous plot, in this we can see men uses the service more th
 
 ## Trips by Weekday 
 
-<img width="660" alt="Trips by Weekday " src="https://user-images.githubusercontent.com/102195803/177906479-4549b259-ecbc-4f90-ace8-751c1ca375d5.png">
+<img width="660" alt="Trips by Weekday" src="https://user-images.githubusercontent.com/102195803/178050320-732f3c6d-9f5d-47e6-94e2-2eb42ec39c0b.png">
 
 ## Trips by gender
 
-<img width="660" alt="Trips by gender" src="https://user-images.githubusercontent.com/102195803/177906475-660d36c8-59b1-42ae-8811-124305ae75b1.png">
+<img width="660" alt="Trips by gender" src="https://user-images.githubusercontent.com/102195803/178050349-fc19a972-0610-4c0b-82c4-aa2a5f048892.png">
 
 ## User Trips by Gender 
 
 <img width="660" alt="User trips by gender" src="https://user-images.githubusercontent.com/102195803/177906481-7ee10b4c-b120-4ca3-b243-02f7d89ea06e.png">
 
-## Kind of users
-<img width="1440" alt="Kind of users" src="https://user-images.githubusercontent.com/102195803/177906472-7e4bcf78-9438-42e0-b251-23e86726ad32.png">
+## Type of users
+<img width="660" alt="Kind of users" src="https://user-images.githubusercontent.com/102195803/177906472-7e4bcf78-9438-42e0-b251-23e86726ad32.png">
 
 ## Aditional 
 <img width="660" alt="Users per age" src="https://user-images.githubusercontent.com/102195803/177906484-6fb79a03-86ff-45f1-a336-9439a29cdf6e.png">
