@@ -47,9 +47,9 @@ In adition to the previous plot, in this we can see men uses the service more th
 
 # Results
 Taking the experience of NYC with bikesharing service, may be very productive to give us a light about how atractive could be this service in Des Moines, Iowa. Althought there are very different cities in population, demographics, even weather, the fact is tha biking had became very popular among people of all ages. Its a healthy, non contaminant, cheap and fun way of transportation,so it´s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines.
-I order to take a bvetter decisition, I would propose two aditional plots.
-  1. users per age, para istiguir nuestro potencial mercado de clientes 
-  2. bicletas por usuarios, para calcular cuantas bicicletas necesitariamos  al principio.
-  3. 
+
+Aditional to this information, I would propose two aditional plots to help explore the target maket in Des moins
+  1. Users by Age.
+  2. 
 
 
