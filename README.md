@@ -10,6 +10,9 @@ Althought Des Moines is not a large and dinamic city as New York City, its data 
   - Who uses bikeshare the most, men or women? 
   - How old are most frequently users?
   - Who use more the bikes, suscriibers or tourists?
+
+
+ <img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 16" src="https://user-images.githubusercontent.com/102195803/177890548-eca82fbb-11b3-4c29-a861-5a203512f7b3.png">
   
 To answer this questions, I analized the data with Tableau, taking advantage of its ploting options, combining the results and presented it  as a Tableau Story. 
 
@@ -24,7 +27,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 <img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 22" src="https://user-images.githubusercontent.com/102195803/177890528-268f5968-9177-49f5-a347-01fa6f1562f7.png">
 <img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 19" src="https://user-images.githubusercontent.com/102195803/177890539-14ecd031-f6d4-48e0-a5c2-3d7ba0b09590.png">
-<img width="660" alt="Captura de Pantalla 2022-07-07 a la(s) 18 48 16" src="https://user-images.githubusercontent.com/102195803/177890548-eca82fbb-11b3-4c29-a861-5a203512f7b3.png">
+
 
 tions:
 
