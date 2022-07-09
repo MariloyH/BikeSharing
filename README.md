@@ -17,7 +17,7 @@ To answer this questions, I analized the data with Tableau, taking advantage of 
 # Results
 
 The Tableau Story can be consulted here: 
-[](https://public.tableau.com/app/profile/mariloy.hernandez/viz/NYC_Citibike_Challenge_16571276676430/CitiBikeAnalysis?publish=yes)
+!https://public.tableau.com/app/profile/mariloy.hernandez/viz/NYC_Citibike_Challenge_16571276676430/CitiBikeAnalysis?publish=yes
 
 ## NYC Citi Bikes Start Locations
 This map show us the station points distribution in NYC, where we can see that the most popular stations are near points of interest, office buildings, school, etc.
