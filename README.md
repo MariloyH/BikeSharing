@@ -22,25 +22,29 @@ The Tableau Story can be consulted here:
 ## NYC Citi Bikes Start Locations
 This map show us the station points distribution in NYC, where we can see that the most popular stations are near points of interest, office buildings, school, etc.
 
-<img width="660" alt="Story 1 NYC Start location " src="https://user-images.githubusercontent.com/102195803/178063769-8da21978-2a29-4737-8156-d8965c975390.png">
+<img width="660" alt="NYC CitiBikeStation" src="https://user-images.githubusercontent.com/102195803/178123585-438653c2-cd38-495f-8612-2b898e70eeb5.png">
 
 ## Checkout times 
 In this plot we can see that mostly users take less than 30 minutes, so we can think they bikes for short trips, maybe to work, to school or only fot shor trips instead using motor driven transportation. In the second plot, we can see that men men and women ....
 
-<img width="660" alt="Checkout times 2" src="https://user-images.githubusercontent.com/102195803/178063851-74e5b5d7-d6ce-4404-ad5b-87d30493daab.png">
+<img width="660" alt="Checkouttimes" src="https://user-images.githubusercontent.com/102195803/178123589-493b224c-3114-4254-9347-aa81989a3510.png">
 
 ## Trips by Weekday 
-In this heatmap, we can observe that service is mostly used on weekdays, around office hours and all day on weekends. An exception is Wednesday, although we do not have more information that help us to determine why. In the second plot, here we can observe that this behavior is similar in men and women althgout most users are men.
+In this heatmap, we can observe that service is mostly used on weekdays around office hours, and all day on weekends. We have an exception on Wednesdays afternoon, but we need more information.
 
-<img width="660" alt="Trips by Weekday 3" src="https://user-images.githubusercontent.com/102195803/178065322-39f773fb-96f4-48f7-924d-bf7c5e7e8aca.png">
+<img width="660" alt="Trips by Weekday" src="https://user-images.githubusercontent.com/102195803/178123593-b62106f9-31c5-4f2e-8129-dc2c1e2f03f7.png">
+
+## Trips by Gender and Weekday
+Here we can we can appreciate  that men and women has the same schedule  but men uses most the service than women. 
+<img width="660" alt="Trips by Gender" src="https://user-images.githubusercontent.com/102195803/178123594-8c61579b-80d9-4a3f-bf9b-4b29e97b5230.png">
 
 ## User Trips by Type and Gender 
 This heatmap show us mostly users are Subscribers, i.e, users that prefers to  pay a perdiodical fee. This is a very interesting point, because suscription  is  a regular income to the bussiness. Customers could be ocasional users o tourists. The pie chart show us the proportion of Subscribers versus Customers. A opportunity to engage future subscribers!
 
-<img width="1440" alt="User trips 4" src="https://user-images.githubusercontent.com/102195803/178065497-b0e57fec-b403-4303-9440-4bad0045aec0.png">
+<img width="660" alt="UserTrips" src="https://user-images.githubusercontent.com/102195803/178123602-a073a6eb-347a-48ea-81f8-b649b3c0cebc.png">
 
 # Summary 
-Taking the experience of NYC with bikesharing service, may be very productive to give us a light about how atractive could be this service in Des Moines, Iowa. Althought there are very different cities in population, demographics, even weather, the fact is tha biking had became very popular among people of all ages. Its a healthy, non contaminant, cheap and fun way of transportation,so it´s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines.
+Taking the experience of NYC bikesharing service may  give us a light about how atractive and affordable is this growing industry. It´ s a healthy, non contaminant, cheap and a fun way of transportation, so it´'s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines. Althought there are very different cities in size, population, even weather, the fact is that Des Moines is beautiful city  that could be enriched  with a bikesharing services. 
 
 Aditional to this information, I would propose two aditional plots to help explore the target maket in Des moins
   1. Users by Age.
