@@ -1,8 +1,8 @@
 # BikeSharing
 BootCamp Week14. NYC CityBike Data Analysis with Tableau
 
+![citibike](https://user-images.githubusercontent.com/102195803/178124339-edfa16b0-d906-4707-81bf-707bdc6588a2.png)
 # Overview
-![Citi_Bike_logo](https://user-images.githubusercontent.com/102195803/178124174-9121c008-fc7e-4958-9119-a3c1a47e1c2d.jpeg)
 
 Bike riding is growing as the preferred transportation method for people of all ages. It´s fun, healthy, cheap and lets people see their neighborhood in a new way. Bike-sharing services, like Citi Bike in NYC, lets people to use a bike in a single way to go  to school or work or even in a tourist ride, deliver it in a station, and use another when required. That´s why bike-sharing program could be an atractive and very profitable bussines. Here, we will present the NYC Citi Bike Data Analysis from August 2019 in order to  convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
