@@ -18,6 +18,7 @@ To answer this questions, I analized the data with Tableau, taking advantage of 
 # Results
 
 The Tableau Story can be consulted here: 
+[link to dashboard](LINK GOES HERE "link to dashboard")
 !https://public.tableau.com/app/profile/mariloy.hernandez/viz/NYC_Citibike_Challenge_16571276676430/CitiBikeAnalysis?publish=yes
 
 ## NYC Citi Bikes Start Locations
