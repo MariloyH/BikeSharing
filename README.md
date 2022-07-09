@@ -46,6 +46,8 @@ Taking the experience of NYC with bikesharing service, may be very productive to
 Aditional to this information, I would propose two aditional plots to help explore the target maket in Des moins
   1. Users by Age.
    <img width="660" alt="Users per age" src="https://user-images.githubusercontent.com/102195803/177906484-6fb79a03-86ff-45f1-a336-9439a29cdf6e.png">
-  
+  2. Usertypes by Gender
+  <img width="660" alt="Aditional plots" src="https://user-images.githubusercontent.com/102195803/178115981-08479914-d1b6-4812-ace0-7ebf14bfd17e.png">
+
 
 
